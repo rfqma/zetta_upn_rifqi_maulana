@@ -1,0 +1,1 @@
+# JavaScript Day 1
